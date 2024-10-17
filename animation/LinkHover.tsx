@@ -1,4 +1,4 @@
-import { TperspectiveTextProps } from "@types";
+import { TperspectiveTextProps } from "../types";
 
 export default function LinkHover({ children }: TperspectiveTextProps) {
 	return (
