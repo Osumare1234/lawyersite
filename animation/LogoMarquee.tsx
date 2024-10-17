@@ -10,7 +10,7 @@ import {
 	wrap,
 } from "framer-motion";
 import { useRef } from "react";
-import { TlogoMarqueeProps } from "@types";
+import { TlogoMarqueeProps } from "../types";
 
 export default function LogoMarquee({
 	children,
