@@ -1,9 +1,9 @@
-
-
-
+import { Home } from "../components";
 
 export default function App() {
-	return (
-
-	);
+  return (
+    <div>
+      <Home />
+    </div>
+  );
 }
